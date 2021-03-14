@@ -13,10 +13,6 @@
 
 - ⚡ Fun fact **I love to climb alpine trad!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p style=align="left">
 <a href="https://linkedin.com/in/kat-leight" target="blank"><img align="center" src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png" alt="kat-leight" height="30" width="40" /></a>
