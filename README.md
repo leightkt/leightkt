@@ -26,4 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leightkt&show_icons=true&locale=en" alt="leightkt" /></p># leightkt
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
