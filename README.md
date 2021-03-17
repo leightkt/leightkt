@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kat!</h1>
 <h3 align="center">Full Stack Software Engineer, DEI Leader, Endurance Athlete, Climber</h3>
 
-- 🔭 I’m currently working on [Voice2Vibes](https://github.com/leightkt/voice2vibes-frontend)
+- 🔭 I’m currently working on [BelayChain](https://github.com/leightkt/belay-chain-blockchain)
 
 - 🌱 I’m currently learning **blockchain development**
 
