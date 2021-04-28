@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/leightkt/Kats-Portfolio)
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📝 I regularly write articles on [https://kat-leight.medium.com/](https://kat-leight.medium.com/)
 
