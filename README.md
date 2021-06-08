@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://kat-leight.medium.com/](https://kat-leight.medium.com/)
 
-- 💬 Ask me about **React, Ruby on Rails, Javascript**
+- 💬 Ask me about **React, Javascript, and Python**
 
 - 📫 How to reach me **leightkt@gmail.com**
 
