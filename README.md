@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kat!</h1>
 <h3 align="center">Full Stack Software Engineer, DEI Leader, Endurance Athlete, Climber</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/leightkt/Kats-Portfolio)
+- 🔭 I’m currently working on **machine learning**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Sagemaker**
 
 - 📝 I regularly write articles on [https://kat-leight.medium.com/](https://kat-leight.medium.com/)
 
