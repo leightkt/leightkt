@@ -27,10 +27,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       14 hrs 58 mins  ███████████▓░░░░░░░░░░░░░   46.43 % 
-Terraform    6 hrs 21 mins   █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-JavaScript   4 hrs 56 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-JSON         2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Other        2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Python       15 hrs          ███████████▒░░░░░░░░░░░░░   44.95 % 
+Terraform    5 hrs 51 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.51 % 
+JavaScript   5 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.32 % 
+JSON         2 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Other        2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 ```
 <!--END_SECTION:waka-->
