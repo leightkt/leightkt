@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **crypto payment processing**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS, GraphQL and Context**
 
 - 📝 I write articles on [https://kat-leight.medium.com/](https://kat-leight.medium.com/)
 
