@@ -26,10 +26,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leightkt&show_icons=true&locale=en" alt="leightkt" /></p># leightkt
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   12 hrs 42 mins  ███████████████████████░░   92.55 % 
-Bash         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Docker       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+TypeScript   13 hrs 28 mins  ███████████████████████▒░   92.94 %
+Bash         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Docker       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
+
 <!--END_SECTION:waka-->
