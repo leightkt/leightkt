@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kat!</h1>
-<h3 align="center">Full Stack Software Engineer, DEI Leader, Endurance Athlete, Climber</h3>
+<h3 align="center">Full Stack Software Engineer, Aspiring Web3 Nerd, Endurance Athlete, and Climber</h3>
 
 - 🔭 I’m currently working on **memepool exploration**
 
-- 🌱 I’m currently learning about **Svelte and Blockchain Infrastructure**
+- 🌱 I’m currently learning about **Svelte, RXJS, and Blockchain Infrastructure**
 
 - 📝 I write articles on [https://kat-leight.medium.com/](https://kat-leight.medium.com/)
 
