@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kat!</h1>
 <h3 align="center">Full Stack Software Engineer, DEI Leader, Endurance Athlete, Climber</h3>
 
-- 🔭 I’m currently working on **crypto payment processing**
+- 🔭 I’m currently working on **memepool exploration**
 
-- 🌱 I’m currently learning **NestJS, GraphQL and Context**
+- 🌱 I’m currently learning about **Svelte and Blockchain Infrastructure**
 
 - 📝 I write articles on [https://kat-leight.medium.com/](https://kat-leight.medium.com/)
 
-- 💬 Ask me about **React, Typescript, and Python**
+- 💬 Ask me about **React, Typescript, Python, GraphQL, and NestJS**
 
 - 📫 How to reach me **leightkt@gmail.com**
 
