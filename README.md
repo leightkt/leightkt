@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kat!</h1>
 <h3 align="center">Full Stack Software Engineer, Aspiring Web3 Nerd, Endurance Athlete, and Climber</h3>
 
-- 🔭 I’m currently working on **memepool exploration**
+- 🔭 I’m currently working on **collectibles marketplaces**
 
 - 🌱 I’m currently learning about **Svelte, RXJS, and Blockchain Infrastructure**
 
